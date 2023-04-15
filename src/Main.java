@@ -8,7 +8,7 @@ public class Main {
             total += salary;
             month++;
             System.out.println("Месяц" + month+ " сумма накоплений " + total + " рублей");}
-        System.out.println(" Задача2");
+        System.out.println(" Задача2 ");
         int ten = 10;
         int zero = 0;
         while ( zero < 10){
